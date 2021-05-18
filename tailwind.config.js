@@ -8,9 +8,9 @@ module.exports = {
       },
       colors: {
         primary: '#e53e3e',
-      },
-      height: {
-        "400px": "400px",
+        "bg-darkblue": "#1C3A6C",
+        "lightblue": "#4385F5",
+        "btn-color": '#D0E1FD',
       },
     },
   },
